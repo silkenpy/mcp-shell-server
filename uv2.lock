@@ -1169,12 +1169,12 @@ wheels = [
 
 [[package]]
 name = "fastmcp"
-version = "0.1.0"
+version = "2.2.4"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "mcp" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/14/05/9d6b9d628d08cbda8c4e0b0eb10d0d6ef1f4bf393be66bb8972ca8e040bf/fastmcp-0.1.0.tar.gz", hash = "sha256:726e6d1e901a14eb44ef7122a6136fa5b2fbc1be5a07be7e1dd7cb89110db7ea", size = 2654 }
+sdist = { url = "https://files.pythonhosted.org/packages/61/32/bd23a3b4e0a7cfb48596301de1e9914eb0412dd7b88ab784a86ba1bdbd18/fastmcp-2.2.4.tar.gz", hash = "b5ae49e9bdbea979527ca12d287482bdcc21e16b01b8529c291c18f99749722e", size = 2654 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/7c/41/d3566fae96805f6b21696df060c5c3fc827e7ffca007a118817a8ea3fba5/fastmcp-0.1.0-py3-none-any.whl", hash = "sha256:e76a6a2569ba74a3f2d0f5ec88a8f15d26ca0d00bb39b563b71f9cf73cd7bc7e", size = 3121 },
+    { url = "https://files.pythonhosted.org/packages/9d/de/044153a1195c4c595f3a99bbc02c97070b2a3c229dcebce50ec67a626fc2/fastmcp-2.2.4-py3-none-any.whl", hash = "e0a22b9b107139a9e5227d91eaa7ab6ca5356215834e5899c91878740af2d252", size = 3121 },
 ]
