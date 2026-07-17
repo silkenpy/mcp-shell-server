@@ -8,7 +8,7 @@ WORKDIR /app
 # Copy the project files
 COPY . .
 
-RUN -mount=type=cache,target=/root/.cache/uv add fastmcp
+RUN --mount=type=cache,target=/root/.cache/uv add fastmcp
 # Install the project's dependencies
 RUN --mount=type=cache,target=/root/.cache/uv pip install .
 ENV NAMEPRJ="mcp-shell-server"
